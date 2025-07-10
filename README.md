@@ -2,7 +2,7 @@
 
 I'm passionate about backend development, specializing in Java and Spring Boot to build scalable, high-performance distributed systems.
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=spring)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%2320232a?style=for-the-badge&logo=spring)
@@ -25,7 +25,7 @@ I'm passionate about backend development, specializing in Java and Spring Boot t
 
 ---
 
-### 📬 Contact
+### 📬 Where you can find me
 * [in] LinkedIn: [Danil](https://www.linkedin.com/in/danil-semenov-5415b0368/)
 * 💻 LeetCode: [Danil](https://leetcode.com/u/dabcom2013/)
 * 💬 Telegram: [@DanilChetvyrtov](https://t.me/DanilChetvyrtov)
