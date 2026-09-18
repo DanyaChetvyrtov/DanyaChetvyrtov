@@ -6,6 +6,9 @@
 
 I build applications with Spring Boot and PostgreSQL, and I enjoy working on the engineering behind a product: from business logic and automated tests to CI/CD and deployment. I'm currently developing **Certis**, a personal finance platform.
 
+**Core stack:** Java · Kotlin · Spring Boot · PostgreSQL · jOOQ · Liquibase · Docker · GitHub Actions · Gradle  
+**Also worked with:** Spring Cloud · Redis · Kafka · React · TypeScript
+
 ## 🚀 Featured project: Certis
 
 [**Certis**](https://github.com/DanyaChetvyrtov/certis-web) brings accounts, transactions, recurring payments, budgets, savings goals, and financial analytics into one application.
