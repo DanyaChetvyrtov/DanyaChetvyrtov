@@ -38,6 +38,25 @@ I build applications with Spring Boot and PostgreSQL, and I enjoy working on the
 
 I also work with **React and TypeScript** on the Certis frontend. I'm interested in distributed systems and DevOps.
 
+## 📊 GitHub statistics
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanyaChetvyrtov&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Danil's GitHub statistics" height="170" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaChetvyrtov&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8&amp;hide=c,meson,makefile,m4" alt="Danil's most-used repository languages" height="170" />
+  </a>
+</p>
+
+### Contribution activity
+
+[![Danil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyaChetvyrtov&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+### GitHub Metrics
+
+[![Danil's GitHub Metrics](https://metrics.lecoq.io/DanyaChetvyrtov)](https://github.com/lowlighter/metrics)
+
 ## 📬 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/danil-semenov-5415b0368/) · [Telegram](https://t.me/DanilChetvyrtov) · [LeetCode](https://leetcode.com/u/dabcom2013/) · [Email](mailto:dabcom2013@gmail.com)
