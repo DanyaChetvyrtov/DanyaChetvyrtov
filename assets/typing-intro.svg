@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="typing-title typing-description">
+  <title id="typing-title">Danil — Java and Kotlin Backend Developer</title>
+  <desc id="typing-description">Animated typing: Java and Kotlin Backend Developer; Building Certis; Backend Architecture and DevOps.</desc>
+  <defs>
+    <clipPath id="typing-first">
+      <rect x="0" y="0" width="0" height="54">
+        <animate attributeName="width" values="0;460;460;0;0" keyTimes="0;0.20;0.28;0.333;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typing-second">
+      <rect x="0" y="0" width="0" height="54">
+        <animate attributeName="width" values="0;0;220;220;0;0" keyTimes="0;0.333;0.533;0.613;0.666;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typing-third">
+      <rect x="0" y="0" width="0" height="54">
+        <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.666;0.866;0.946;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g fill="#10B981" font-size="22" font-weight="600" font-family="DejaVu Sans Mono, Consolas, Menlo, monospace">
+    <text x="0" y="36" clip-path="url(#typing-first)">Java &amp; Kotlin Backend Developer</text>
+    <text x="0" y="36" clip-path="url(#typing-second)">Building Certis</text>
+    <text x="0" y="36" clip-path="url(#typing-third)">Backend Architecture &amp; DevOps</text>
+  </g>
+  <g fill="#10B981">
+    <rect x="0" y="16" width="2" height="27">
+      <animate attributeName="x" values="0;460;460;0;0" keyTimes="0;0.20;0.28;0.333;1" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.333" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="16" width="2" height="27">
+      <animate attributeName="x" values="0;0;220;220;0;0" keyTimes="0;0.333;0.533;0.613;0.666;1" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.333;0.666" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="16" width="2" height="27">
+      <animate attributeName="x" values="0;0;460;460;0" keyTimes="0;0.666;0.866;0.946;1" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.666;1" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
