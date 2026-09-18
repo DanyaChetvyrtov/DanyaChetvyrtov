@@ -1,5 +1,7 @@
 # Hi, I'm Danil 👋
 
+![Animated introduction: Java & Kotlin Backend Developer, Building Certis, Backend Architecture & DevOps](./assets/typing-intro.svg)
+
 **Java & Kotlin Backend Developer** focused on backend architecture, reliable APIs, and database design.
 
 I build applications with Spring Boot and PostgreSQL, and I enjoy working on the engineering behind a product: from business logic and automated tests to CI/CD and deployment. I'm currently developing **Certis**, a personal finance platform.
