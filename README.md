@@ -1,10 +1,10 @@
 # Hi, I'm Danil 👋
 
-![Animated introduction: Java & Kotlin Backend Developer, Building Certis, Backend Architecture & DevOps](./assets/typing-intro.svg)
+![Animated introduction: Java & Kotlin Backend Developer, Building prognoCIk, Backend Architecture & DevOps](./assets/typing-intro.svg)
 
 **Java & Kotlin Backend Developer** focused on backend architecture, reliable APIs, and database design.
 
-I build applications with Spring Boot and PostgreSQL, and I enjoy working on the engineering behind a product: from business logic and automated tests to CI/CD and deployment. I'm currently developing **Certis**, a personal finance platform.
+I build applications with Spring Boot and PostgreSQL, and I enjoy working on the engineering behind a product: from business logic and automated tests to CI/CD and deployment. I'm currently working with the **Digital Hustle** team on **prognoCIk**, a cash-flow forecasting platform for small businesses.
 
 **Core stack**
 
@@ -26,20 +26,23 @@ I build applications with Spring Boot and PostgreSQL, and I enjoy working on the
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🚀 Featured project: Certis
+## 🚀 Featured project: prognoCIk
 
-[**Certis**](https://github.com/DanyaChetvyrtov/certis-web) brings accounts, transactions, recurring payments, budgets, savings goals, and financial analytics into one application.
+[**prognoCIk**](https://github.com/Digital-Hustle/hack-2026-back) is a cash-flow forecasting platform for small businesses, built by the **Digital Hustle** team for the **Center-invest Bank** case at the Autumn 2026 hackathon. It combines bank statements and planned payments to forecast daily balances and highlight potential cash gaps over the next **30 days**.
 
-[![Certis dashboard](https://raw.githubusercontent.com/DanyaChetvyrtov/certis-web/main/docs/dashboard_main.png)](https://github.com/DanyaChetvyrtov/certis-web)
+[![prognoCIk cash-flow forecast dashboard](https://raw.githubusercontent.com/Digital-Hustle/prognocik-frontend/main/docs/screenshots/forecast.png)](https://github.com/Digital-Hustle/prognocik-frontend)
 
-**What I've built and worked on:**
+**Engineering highlights:**
 
-- **Backend architecture:** feature-oriented Kotlin/Spring Boot API with explicit command/query boundaries and public contracts between features.
-- **Data and security:** PostgreSQL, jOOQ, Liquibase migrations, cookie-based JWT authentication, refresh-token rotation, and session management.
-- **Financial workflows:** account transfers, scheduled recurring transactions, budget planning, savings goals, and cash-flow analytics.
-- **Delivery and quality:** integration tests with embedded PostgreSQL, static analysis, coverage checks, GitHub Actions, and Docker.
+- **Backend architecture:** five Java 21 / Spring Boot services — Auth/Profile, Gateway, PreProcessor, Orchestrator, and Forecast — with explicit API contracts and reproducible calculation snapshots.
+- **Financial data:** CSV/Excel imports, validation, categorization, deduplication, recurring payments, and PostgreSQL persistence with Liquibase migrations.
+- **Forecasting:** statistical models for daily cash flow, scenario-based uncertainty bands, cash-gap detection, historical backtesting, and “what if” simulations.
+- **Business workflows:** payment calendars, employee salaries, plan-vs-actual analytics, Bitrix24 integration, and a read-only AI assistant grounded in application data.
+- **Security and delivery:** email-code login, JWT cookies, CSRF protection, company roles, PostgreSQL integration tests, GitHub Actions, and Docker.
 
-**Explore the project:** [Backend / API](https://github.com/DanyaChetvyrtov/certis-api) · [Frontend / Screenshots](https://github.com/DanyaChetvyrtov/certis-web)
+**Explore the project:** [Backend / API](https://github.com/Digital-Hustle/hack-2026-back) · [Frontend / Screenshots](https://github.com/Digital-Hustle/prognocik-frontend)
+
+**Also built:** [Certis](https://github.com/DanyaChetvyrtov/certis-web) — a personal finance platform with a [Kotlin / Spring Boot API](https://github.com/DanyaChetvyrtov/certis-api).
 
 ## 📊 GitHub statistics
 ### GitHub Stats
